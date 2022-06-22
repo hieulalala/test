@@ -1,0 +1,1 @@
+print('Ban dang lam gi day')
